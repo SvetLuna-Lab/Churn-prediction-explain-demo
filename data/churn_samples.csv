@@ -9,18 +9,3 @@ tenure_months,monthly_charges,total_charges,contract_type,num_support_calls,has_
 3,85.0,255.0,0,2,0,1
 18,62.0,1116.0,1,2,1,0
 6,75.0,450.0,0,3,0,1
-
-
-#tenure_months – how many months the customer has been with the company
-
-#monthly_charges – monthly payment amount
-
-#total_charges – total amount paid over the entire relationship
-
-#contract_type – 0 = month-to-month contract, 1 = long-term contract
-
-#num_support_calls – number of calls to customer support
-
-#has_promo – 0/1 flag indicating whether the customer is on a promotion
-
-#churn – target label: 0 = stayed, 1 = churned
